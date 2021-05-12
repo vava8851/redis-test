@@ -1,0 +1,25 @@
+
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Şİ¤8é‘Ÿá‘/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(àÌìà8€ßåá‘/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(‰›Óƒ8§ûÌá‘/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(Ùëé‹8é‘Ÿá‘/
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(µº±b8Ùúëá‘/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8é‘Ÿá‘/
+g
+java:S11924"JDefine a constant instead of duplicating this literal "candidate" 3 times.(Ò¥ø½8é‘Ÿá‘/
+T	java:S1065"9Replace this use of System.out or System.err by a logger.(¤òñY8é‘Ÿá‘/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(éµÜÄ8é‘Ÿá‘/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(˜‘ª ıÿÿÿÿ8é‘Ÿá‘/
+i
+java:S1192"LDefine a constant instead of duplicating this literal "post:3:tags" 3 times.(ÑĞ¯Ü8é‘Ÿá‘/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¬ÈŒå8é‘Ÿá‘/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”ÊÉ†8ÉçŸá‘/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(‰½…„8é‘Ÿá‘/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ƒµ•Ğùÿÿÿÿ8é‘Ÿá‘/
+i
+java:S1192"LDefine a constant instead of duplicating this literal "post:2:tags" 4 times.(á€¼ç8é‘Ÿá‘/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(òÊş³ıÿÿÿÿ8ˆàñá‘/
+n
+java:S1192"LDefine a constant instead of duplicating this literal "post:1:tags" 3 times.(…Ê…Îüÿÿÿÿ8é‘Ÿá‘/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ÕªÔúÿÿÿÿ8é‘Ÿá‘/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(§„Êö8é‘Ÿá‘/

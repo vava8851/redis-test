@@ -1,0 +1,13 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”ÊÉ†8ºÍŞÇ/
+F
+java:S21404")Use "java.util.Random.nextInt()" instead.(Ğóüö8ôÁ¼‘/
+K
+java:S21401")Use "java.util.Random.nextInt()" instead.(¬‘¨Ğøÿÿÿÿ8ôÁ¼‘/
+C	java:S1312""Add a default case to this switch.(¢»¥Çüÿÿÿÿ8ôÁ¼‘/
+F
+java:S21408")Use "java.util.Random.nextInt()" instead.(‹ïöÎ8ôÁ¼‘/
+F
+java:S2140<")Use "java.util.Random.nextInt()" instead.(Ñîíµ8ôÁ¼‘/
+P
+java:S1144."3Remove this unused private "returnAuthCode" method.(·¸¼¦8¬ï­ã‘/

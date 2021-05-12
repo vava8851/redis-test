@@ -1,0 +1,6 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê†§»8õõ¬“/
+^
+java:S2095"CUse try-with-resources or close this "Jedis" in a "finally" clause.(î›§™8õõ¬“/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(»ÔÌÓüÿÿÿÿ8õõ¬“/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­‰Áí8õõ¬“/

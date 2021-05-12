@@ -1,0 +1,18 @@
+
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(°ı¸8«¹œŞ‘/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ê¾ú®8«¹œŞ‘/
+h
+java:S1192!"KDefine a constant instead of duplicating this literal "customers" 10 times.(’ ŞÉ8«¹œŞ‘/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”ÊÉ†8ó×ß‘/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£¼€ı8¬’Ïâ‘/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ó÷Ñ¬8åîã‘/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ŸîÒÃ8«¹œŞ‘/
+G
+java:S5411!"*Use the primitive boolean expression here.(’ ŞÉ8«’Ş‘/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ï¨ù8ØŸƒã‘/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(èòÕåÿÿÿÿÿ8«¹œŞ‘/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ê¾ú®8«¹œŞ‘/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³°³†8ì×€ß‘/
+j
+java:S1192"MDefine a constant instead of duplicating this literal "webSite-list" 4 times.(‹Æ•é8ì×€ß‘/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ç‚óŸ8«¹œŞ‘/
