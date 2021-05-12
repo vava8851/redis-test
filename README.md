@@ -1,4 +1,4 @@
-# redis-test
+<header> redis-test </header>
 *義大利人開發的記憶體快取記憶體資料庫。</br>
 *全名 : Remote Dictionary Server。</br>
 *他除了是一個Key-value pair的儲存系統(有點像我們Java寫的Map一樣)，還支援多種資料型別，比如:字串(String)，Hash(字典)，列表(List)，集合(Set)，有序集合(Sorted Set)。</br>
@@ -12,3 +12,5 @@
 *還提供事務、訊息傳遞等功能。</br>
 *在系統中，通常使用Redis做資料快取使用。</br>
 
+#use intellij IDE</br>
+#use maven to build spring boot project</br>
